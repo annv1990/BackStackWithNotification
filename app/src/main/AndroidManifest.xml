@@ -20,6 +20,10 @@
         <activity
             android:name=".OneActivity"/>
         <!-- android:taskAffinity="test.annv1990" -->
+
+        <activity android:name=".TwoActivity"/>
+        <activity android:name=".ThreeActivity"/>
+        <activity android:name=".FourActivity"/>
     </application>
 
 </manifest>
